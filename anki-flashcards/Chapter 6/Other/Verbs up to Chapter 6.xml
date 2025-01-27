@@ -1,0 +1,164 @@
+<deck name="Verbs up to Chapter 6" tags='Japanese::Chapter 6::Other'>
+    <fields>
+        <japanese name='Dictionary form' sides='11' furiganaMode='always'></japanese>
+        <text name='Meaning' sides='01' lang='en-US'></text>
+    </fields>
+    <cards>
+        <card>
+            <japanese name='Dictionary form'>いく</japanese>
+            <text name='Meaning'>go [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>おきる</japanese>
+            <text name='Meaning'>get up [ru]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>くる</japanese>
+            <text name='Meaning'>come [irr.]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>かえる</japanese>
+            <text name='Meaning'>return (home) [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>たべる</japanese>
+            <text name='Meaning'>eat [ru]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>きく</japanese>
+            <text name='Meaning'>listen; ask [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>のむ</japanese>
+            <text name='Meaning'>drink [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>する</japanese>
+            <text name='Meaning'>do [irr.]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>はなす</japanese>
+            <text name='Meaning'>speak [irr.]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>みる</japanese>
+            <text name='Meaning'>see; look [irr.]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>べんきょうする</japanese>
+            <text name='Meaning'>study [irr.]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>よむ</japanese>
+            <text name='Meaning'>read [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>あう</japanese>
+            <text name='Meaning'>meet; to see (a person) (person に) [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>かう</japanese>
+            <text name='Meaning'>buy [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>いる</japanese>
+            <text name='Meaning'>(a person) is in...; stays at... (place に person が) [ru]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>ある</japanese>
+            <text name='Meaning'>there is...(place に thing が) [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>まつ</japanese>
+            <text name='Meaning'>wait [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>かく</japanese>
+            <text name='Meaning'>write [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>のる</japanese>
+            <text name='Meaning'>ride; take (a bus) [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>とる</japanese>
+            <text name='Meaning'>take (a picture) [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>シャワーをあびる</japanese>
+            <text name='Meaning'>take a shower [ru]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>あそぶ</japanese>
+            <text name='Meaning'>play; have fun [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>あける</japanese>
+            <text name='Meaning'>open [ru]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>いそぐ</japanese>
+            <text name='Meaning'>hurry [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>おりる</japanese>
+            <text name='Meaning'>get off (a bus) [ru]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>おしえる</japanese>
+            <text name='Meaning'>teach [ru]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>かえす</japanese>
+            <text name='Meaning'>return (a thing) [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>けす</japanese>
+            <text name='Meaning'>turn off [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>しめる</japanese>
+            <text name='Meaning'>close [ru]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>すわる</japanese>
+            <text name='Meaning'>sit down [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>たつ</japanese>
+            <text name='Meaning'>stand up [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>つける</japanese>
+            <text name='Meaning'>turn on [ru]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>てつだう</japanese>
+            <text name='Meaning'>help [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>わすれる</japanese>
+            <text name='Meaning'>forget [ru]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>でんわする（でんわをかける)</japanese>
+            <text name='Meaning'>make a phone call [u] ([ru])</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>もってくる</japanese>
+            <text name='Meaning'>bring (a thing) [irr.]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>つれてくる</japanese>
+            <text name='Meaning'>bring (a person) [irr.]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>わかる</japanese>
+            <text name='Meaning'>to understand (~が) [u]</text>
+        </card>
+        <card>
+            <japanese name='Dictionary form'>つかう</japanese>
+            <text name='Meaning'>to use (~を) [u]</text>
+        </card>
+    </cards>
+</deck>

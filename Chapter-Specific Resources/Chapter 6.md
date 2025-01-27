@@ -5,6 +5,16 @@
 - [The Te-Form Song](https://youtu.be/Cj-P-nEPoe0?si=e2LEeHxsGusIMzgf) (or [ToKini Andy's version](https://youtube.com/shorts/29oMG4dIxFo?si=zh7EdtOwWDLD7oes)) [video] (lyrics below)
 - [ToKini Andy Video - Genki 1 Lesson 6 Grammar Made Clear | The て Form and more](https://youtu.be/whHaSkKf-jU?si=0mZAiN04rn0R3KsG) [video]
 
+## Te-Form Song
+うつる　→　て</br>
+むぶぬ　→　んで</br>
+　　く　→　いて</br>
+　　ぐ　→　いで</br>
+　いく　→　いって</br>
+　くる　→　きて</br>
+　する　→　して</br>
+　　す　→　して</br>
+
 ## Grammar Notes
 ### Te-Form
 
@@ -23,12 +33,37 @@ For making a polite request - "please do ... for me."
 
 <center><h4><u>Te-Form</u> + ください</h4></center>
 
-## Te-Form Song
-うつる　→　て</br>
-むぶぬ　→　んで</br>
-　　く　→　いて</br>
-　　ぐ　→　いで</br>
-　いく　→　いって</br>
-　くる　→　きて</br>
-　する　→　して</br>
-　　す　→　して</br>
+<i>ともだちを<u>つれてきってください</u></i><br/>
+<i>Please bring your friend</i>
+
+### Describing Two Activities
+
+
+
+### 〜てもいいです
+You may do...
+
+<center><h4>Te-Form + <u>もいいです</u></h4></center>
+
+<i>きょうかしょを<u>みてもいいです</u>よ</i><br/>
+<i>You may use the textbook</i>
+
+or 
+
+Ask for permission
+
+<center><h4>Te-Form + もいいです<u>か</u></h4></center>
+
+<i>トイレに<u>いってもいいですか</u>。</i><br/>
+<i>May I go to the bathroom?</i>
+
+Answer:
+
+- はい、いいですよ - you may
+- どうぞ - please
+- すみません　ちょっと... - sorry (decline)
+- ダメです！　No!
+
+### ~はいけません
+You must not do...
+(wa not ha)

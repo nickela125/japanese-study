@@ -29,7 +29,8 @@ There is no better option than attending classes at a Japanese school (preferabl
 ## Vocab
 - [Anki](https://apps.ankiweb.net/) 
   - Flashcards using techniques from cognitive science such as active recall testing and spaced repetition to aid the user in memorization
-  - Flashcard data for vocab from the Genki textbooks can be found in the [anki-flashcards](./anki-flashcards/) folder (as much as I have made, anyway). See [below](#how-to-import-flashcards-in-the-anki-app) for importing it into your app.
+  - A pre-made deck for flashcard data with vocab from the Genki textbooks can be found in [Genki 1 3rd edition with sound files](https://ankiweb.net/shared/info/1742947823). I would highly recommend [changing this deck to make you type in answers](#how-to-change-the-anki-deck-to-enable-typing-answers) as it will aid in recall.
+  - Additional Anki flashcards that I have made can be found in the [anki-flashcards](./anki-flashcards/) folder. See [instructions for importing these into Anki](./Anki.md#how-to-import-flashcards-into-anki).
 
 ## Kanji
 - [WaniKani](https://www.wanikani.com/) 
@@ -42,13 +43,8 @@ There is no better option than attending classes at a Japanese school (preferabl
   - A slightly different type of learning developed by a professor of applied linguistics, this course uses the [Pimsleur method](https://en.wikipedia.org/wiki/Pimsleur_Language_Programs).
   - This is an audio-based course that has you repeating words and phrases out loud in a way that helps with learning and retention. You may have seen characters in older TV shows or movies learning a new language by listening to tapes - that it Pimsleur! While you won't learn Japanese in it's entirety, it may be a good option to achieve a basic level of proficiency suitable for for travel or business.
 
------
 
-## How to import flashcards in the Anki App
-1. From the main page, click the + menu and "Import Deck"
-![import deck](./images/import-deck.jpeg)
-1. Click on "Choose File"
-![choose file](./images/choose-file.jpeg)
-1. Select the xml file from this repository that you have downloaed on your device
-1. You will immediately find yourself in the deck, which is imported in a random location. Click on the three dots and move it to your desired location
-![move deck](./images/move.jpeg)
+## Study Concepts
+### Learning Vocabulary
+- [Spaced Repetition](https://www.tofugu.com/japanese/spaced-repetition/) - this is where Anki and many other tools come in!
+- 
