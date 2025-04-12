@@ -2,6 +2,11 @@
 
 Todo: Details about the official Anki and fake ones.
 
+https://www.youtube.com/watch?v=lc-1cJbMRk8 (video with info on settings for Anki. Don't get overwhelmed the opinionated info they include about what decks you should be using. Just keep it simple. Assuming you are doing Genki, use Anki to help you learn the vocab and sentences. Done.)
+
+Tips for using the pre-made deck:
+- Browse -> Select decks for the Levels you aren't up to yet -> ctrl / cmd + a to select all the cards in this deck -> ctrl / cmd + J to suspend these
+
 Below are some helpful tips for you to get the most out of your Anki flashcards. Remember that the more work you put into recalling your cards (think: typing your answers), the better you will learn them.
 
 ## Table of contents
