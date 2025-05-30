@@ -37,3 +37,6 @@ Bより　Aのほうが　Adj。
     - Which do you prefer, summer or winter?
 - A: なつのほうが　ふゆより　すきです。
     - I like summer better than winter.
+
+#### Practice
+- Genki page 239
