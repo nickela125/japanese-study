@@ -1,42 +1,49 @@
-# Genki Chapter 10
+# 🌸 Genki Chapter 10
 
-## Resources
+## 📚 Resources
 
+---
+## 🧩 Grammar Notes
 
-## Grammar Notes
+### 1️⃣ Comparison between Two Items
+#### ❓ Question ❓
 
-### 1. Comparison between Two Items
-#### Question
-```
-AとBと　どちら/どっち　のほう が Adj？
-    = Between A and B, which is more (Adj)?
-```
+>AとBと　どちら/どっち　のほう が Adj？ 
 
-#### Answer
-```
-Aのほうが　Bより　Adj。　
-    = A is more (Adj) than B.
+= Between A and B, which is more (Adj)?
 
+#### 🗣️ Answer 🗣️
+
+>Aのほうが　Bより　Adj。　
 or
-
 Bより　Aのほうが　Adj。
-    = (same)
-```
 
-#### Notes
+= A is more (Adj) than B.
+
+#### ✨ Notes ✨
 - No modification to the adjective
 
-#### Examples
+**Examples**
 - ちゅうごくのほうがにほんよりおおきいです
-    - China is larger than Japan
+
+    _China is larger than Japan_
+
 - Q: にほんとカナダとどちらのほうがさむいですか。
-    - Which is colder, Japan or Canada?
+
+    _Q: Which is colder, Japan or Canada?_
+
 - A: カナダのほうがさむいです。
-    - Canada is colder.
+
+    _A: Canada is colder._
+    
 - Q: なつ　と　ふゆ　と　どちら/どっち　のほうが　すきですか？
-    - Which do you prefer, summer or winter?
+
+    _Q: Which do you prefer, summer or winter?_
+
 - A: なつのほうが　ふゆより　すきです。
-    - I like summer better than winter.
+
+    _A: I like summer better than winter._
+
 
 #### Practice
 - Genki page 239
