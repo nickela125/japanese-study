@@ -107,3 +107,14 @@ To include details of spaced repetition (and some further reading resources if i
   * Big cramming sessions are virtually useless. Do a little bit a day and make it a habit. This is the only way to remember.
 * One other imporant principle is _active recall_ - this means you have to practice the retrieval of the information from your brain to strengthen the pathways for remembering
   * passively flipping through flashcards doesn't help - you need to type!
+
+
+## Furigana
+
+You can display furigana (little hiragana above kanji) in Markdown using Ruby (at least it is processed by GitHub and VSCode). Do this with:
+
+```html
+<ruby>茶<rp>(</rp><rt>ちゃ</rt><rp>)</rp><ruby>
+```
+
+To make this _slightly_ less painful (for myself), I have included a VSCode snippet to add the above for a highlighted kanji.
