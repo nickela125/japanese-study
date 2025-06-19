@@ -1,8 +1,8 @@
 # Adjective Conjugation Chart
 
-![](./adjective-chart.png)
+![](./extra-files/adjective-chart.png)
 
-<link rel="stylesheet" type="text/css" href="./style.css" />
+<link rel="stylesheet" type="text/css" href="./extra-files/style.css" />
 <table class="tg"><thead>
   <tr>
     <th class="tg-g7sd" rowspan="3">Adjective Type</th>

@@ -24,23 +24,23 @@ Bより　Aのほうが　Adj。
 - No modification to the adjective
 
 **Examples**
-- ちゅうごくのほうがにほんよりおおきいです
+- ちゅうごく の ほうが にほん より おおきい です
 
     _China is larger than Japan_
 
-- Q: にほんとカナダとどちらのほうがさむいですか。
+- Q: にほん と カナダ と どちら の ほうが さむい です か。
 
     _Q: Which is colder, Japan or Canada?_
 
-- A: カナダのほうがさむいです。
+- A: カナダ の ほうが さむい です。
 
     _A: Canada is colder._
     
-- Q: なつ　と　ふゆ　と　どちら/どっち　のほうが　すきですか？
+- Q: なつ と ふゆ と どちら/どっち の ほうが すき です か？
 
     _Q: Which do you prefer, summer or winter?_
 
-- A: なつのほうが　ふゆより　すきです。
+- A: なつ の ほうが ふゆ より すき です。
 
     _A: I like summer better than winter._
 
