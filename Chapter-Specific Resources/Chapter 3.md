@@ -22,7 +22,7 @@ Nouns are generally followed by particles - indicate their relationships to the 
 - コーヒー を <ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp><ruby>みます。  
 
     _I drink coffee._
-<ruby>音<rp>(</rp><rt>おん</rt><rp>)</rp><ruby><ruby>楽<rp>(</rp><rt>がく</rt><rp>)</rp><ruby> を <ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp><ruby>きます。
+- <ruby>音<rp>(</rp><rt>おん</rt><rp>)</rp><ruby><ruby>楽<rp>(</rp><rt>がく</rt><rp>)</rp><ruby> を <ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp><ruby>きます。
 
     _I listen to music._
 
@@ -51,8 +51,7 @@ Nouns are generally followed by particles - indicate their relationships to the 
 - <ruby>日<rp>(</rp><rt>にち</rt><rp>)</rp><ruby><ruby>曜<rp>(</rp><rt>よう</rt><rp>)</rp><ruby><ruby>日<rp>(</rp><rt>び</rt><rp>)</rp><ruby> に <ruby>京<rp>(</rp><rt>きょう</rt><rp>)</rp><ruby><ruby>都<rp>(</rp><rt>と</rt><rp>)</rp><ruby> に <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp><ruby>きます.
 
     _I will go to Kyoto on Sunday._
-
-- <ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp><ruby><ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp><ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp><ruby> に <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp><ruby>ます。
+<ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp><ruby><ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp><ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp><ruby> に <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp><ruby>ます。
 
     _I will go to bed at eleven._
 

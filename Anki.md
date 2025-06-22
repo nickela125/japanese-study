@@ -1,11 +1,32 @@
 # Anki Guide for Japanese Flashcards
 
-Todo: Details about the official Anki and fake ones.
+## What is Anki?
+[Anki](https://apps.ankiweb.net/) is a free and open-source flashcard app that uses spaced repetition to make remembering things easy and efficient.
 
-https://www.youtube.com/watch?v=lc-1cJbMRk8 (video with info on settings for Anki. Don't get overwhelmed the opinionated info they include about what decks you should be using. Just keep it simple. Assuming you are doing Genki, use Anki to help you learn the vocab and sentences. Done.)
+Make sure you use the official Anki apps! There are lots of "Anki" clones out there, but the official version has a huge community around it, and just works better. You can start by trying the web or desktop versions, which are free.
 
-Tips for using the pre-made deck:
-- Browse -> Select decks for the Levels you aren't up to yet -> ctrl / cmd + a to select all the cards in this deck -> ctrl / cmd + J to suspend these
+## Configuring Anki
+
+🎬 [12 Anki Tips That Changed How I Learned Japanese](https://www.youtube.com/watch?v=lc-1cJbMRk8) 
+
+This video with info on helpful settings to use in Anki. Don't get overwhelmed the opinionated info they include about what decks you should be using. Just keep it simple. Assuming you are doing Genki, use Anki to help you learn the vocab and sentences. Done.
+
+My tips for using a pre-made deck:
+- Suspend all the cards for Genki chapters you haven't reached yet
+    - `Browse` 
+    - Select decks for the Levels you aren't up to yet
+    - `ctrl / cmd + a` to select all the cards in this deck
+    - `ctrl / cmd + J` to suspend these
+- If you are retrospectively learning vocab, work backwards one chapter at a time (suspend all previous chapters until you are ready)
+- Start with a maximum of 20 new words per day and 100 reviews. Adjust depending on your available time
+    - Study every day until you get the "Congratulations! You have finished this deck for now." message.
+    - "20 new words" actually covers 10 words per day since English -> Japanese counts as one, and Japanese -> English counts as a second card
+    - Some days you won't get a full set of 20 new words. It depends how many reviews you have pending (which itself depends on how well you were able to remember words on previous days). 
+    - I found this number took around 40 mins per day, which is a decent amount of effort
+- If you are keen to do more study on a particular day, you can increase the limits for that day only. Be aware that this will increase the number of reviews for the next few days (as new words are reviewed immediately the next day)
+- Check out the stats for your study session after you have finished. This can help with motivation as you see the number of new cards go down each day
+
+Also see: [Learning Vocabulary](README.md#learning-vocabulary)
 
 Below are some helpful tips for you to get the most out of your Anki flashcards. Remember that the more work you put into recalling your cards (think: typing your answers), the better you will learn them.
 

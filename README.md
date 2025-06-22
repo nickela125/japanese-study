@@ -45,9 +45,6 @@ There is no better option than attending classes at a Japanese school (preferabl
 
 
 ## Study Concepts
-### Learning Vocabulary
-- [Spaced Repetition](https://www.tofugu.com/japanese/spaced-repetition/) - this is where Anki and many other tools come in!
-- Active Recall
 
 ## Help! I'm getting so far behind in class
 
@@ -78,36 +75,37 @@ This was my biggest downfall. I skated by early on through learning to recognise
 
 I have no other recommendation than Anki, as you can see in the [Vocab section](#vocab). Use the premade deck from this section.
 
-If you are already behind on your vocab, start with the lesson that you are currently on in class. Suspend cards from all other lessons. You will have a maximum of 20 new words per day, but you can play around with this if it seems too big or too small. Study every day until you get the "Congratulations! You have finished this deck for now." message.
-
-Still working the rest of this out...
-("20 words per day" actually only gives you 10 coz of front and back... rewatch video to work out how to get around this. Oh it skips all the English ones first. Maybe set to 40 and you get 20, then it will come back to the English ones? I think it is "New card sort order: Card type, then order gathered" Oh wait, I also have deck from L0. Let's get rid of that for now)
-It did 20 jap -> engl cards, then the next day, same ones but the other way (may be incorrect exact numbers coz I also had L0 selected for day 1, and did some the day before... shall see tomorrow)
-Chapter 8: 112 cards (56 words)
-If you learn 20 new cards per day (10 words), that's only 5 days for the whole deck. Less than a week
-Day 3: Maybe did mix of engl and jap words? up to 63 now
-Day 5 (or 6?) Sunday: additional 40 cards (one day I don't think I added more coz tired) 103 / 112. Don't think yesterday's ones were added in order. New 9, due 41?? After: no more new ones
-Day 6 I added lesson 7, but ended up with more new cards in lesson 7 than the parent deck allowed? I also changed the settings from max 99999 to 200 briefly, but I only did 130 reviews or something.
-
-
-Tips:
-* Don't add any sentences until after you have learnt the vocabulary (I didn't actually talk about adding sentences at all..) (lol I wrote this point again later * Don't add sentences for vocab (i.e. the ones from the Genki app or other translations) until later. Just focus on vocab)
+General Tips:
+* Don't add any sentences until after you have learnt a decent amount of vocabulary (I haven't done this yet, but would definitely have benefited by mixing some of this study in before finishing all my vocab..) (lol I wrote this point again later 
    * Add sentences for new grammar you learn in class only. This helps you keep up in class. Past grammar can come after vocab
 * Learn how to use Japanese keyboard
     * Use the Romanji(?) one
     * Turn off auto convert (it changes everything to kanji automatically and will drive you crazy)
-    * I managed to get a katakana one on my macbook somehow but not phone
+    * I managed to get a katakana one on my macbook somehow but not phone. I have found it more useful to stick with hiragana on my MacBook, but set it to type katakana when the shift key is pressed
 * If you are using multiple devices / versions of Anki, you have to manually sync any progress to ensure your progress is carried across every time you switch device
 * Just add one (sub)deck at a time, once you have no more new cards from existing decks
 * Don't get too ambitious on the first day. Stick with a sustainable number of new cards - you will get more reviews as the days progress
 * Still working out what a good max is for me - maybe leave it on 9999 and once you start feeling like you've got a not sustainable number, put it down? Probably just recommend a number and they can put it up once they are reaching this number if needed
 
-To include details of spaced repetition (and some further reading resources if interested):
-* One of the important principles is _forgetting_ (maybe another name?) or maybe _sleep_ - this means you have to sleep after study to give your brain a chance to remember the thing, or maybe forget it? Learn better
-  * Big cramming sessions are virtually useless. Do a little bit a day and make it a habit. This is the only way to remember.
-* One other imporant principle is _active recall_ - this means you have to practice the retrieval of the information from your brain to strengthen the pathways for remembering
-  * passively flipping through flashcards doesn't help - you need to type!
+## The Science of Learning
+If you are interested in learning more about the science of learning, I highly recommend the book _Make It Stick: The Science of Successful Learning_ by Peter C Brown et al. 
 
+Here is a summary of the most important strategies for learning things, such as vocabulary:
+
+- **Retrieval Practice** - actively recalling information from memory, for example using flash cards or other forms of testing
+- **Spaced Learning** - leaving enough time in between practice sessions for some forgetting to occur (e.g. after having a sleep) makes practice more effective
+  - Also see [Tofugu: Spaced Repetition](https://www.tofugu.com/japanese/spaced-repetition/)
+- **Interleaving** - alternating between different types of problems, rather than practicing one thing until it is polished, helps give some time for forgetting to occur, and helps learners distinguish between different types of problems and which solutions they need to apply
+- **Mixing up the order** - ensuring you aren’t always repeating your learning in the same order is important as you can become familiar with the order rather than the material
+- **Elaboration** - connecting new material to knowledge you already know and elaborating on it helps consolidate memory
+- **Generation** - rephrasing key ideas in your own words, or coming up with your own examples helps reinforce learning
+- **Reflection** - reflecting on what you have learned is another form of retrieval practice and it helps strengthen memory
+
+Using Anki, you will have the first 4 of the above strategies taken care of. However, keep in mind that big cramming sessions are virtually useless. Do a little bit a day and make it a habit.
+
+I have found that *Elaboration* has naturally happened as I have learned more vocabulary. If you are curious, you will notice connections between words - e.g. ”きん” is in きんようび (Friday - literally "gold day"), and in きんいろ　（gold - literally "gold colour"). Knowing one will make it easier to remember the other.
+
+*Generation* and *Reflection* are things I am not good at, but are probably helpful things to do after class - recalling what you just learned, writing notes, and coming up with new examples for new grammar concepts.
 
 ## Furigana
 
