@@ -54,3 +54,4 @@ Harder things to say that I can ask in English (so I don't use up all my Japanes
 - Who is your favourite rider?
 - My favourite rider is Marc Marquez. He is winning the championship this year.
 - I saw X near the train station while I was walking to work.
+- I was planning on going to bed early, but I didn't because I played Stardew valley
