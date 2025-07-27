@@ -30,6 +30,15 @@ Nouns are generally followed by particles - indicate their relationships to the 
 
     _I watch TV._
 
+#### ✨ で ✨
+- Place of action - where events take place
+
+**Examples**
+
+- 。
+
+    _._
+
 #### ✨ に ✨
 1. The goal towards which things move
 1. The time at which an event takes place
