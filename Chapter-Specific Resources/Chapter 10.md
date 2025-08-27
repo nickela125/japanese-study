@@ -3,8 +3,7 @@
 ## 📚 Resources
 
 **▶️ YouTube**
-- 🎥 [Tokini Andy | Genki 1 Lesson 10 Japanese Grammar Made Clear](https://youtu.be/qaFX3x4G6mU?si=1lvDlvxtPertPtBw
-) 
+- 🎥 [Tokini Andy | Genki 1 Lesson 10 Japanese Grammar Made Clear](https://youtu.be/qaFX3x4G6mU?si=1lvDlvxtPertPtBw) 
 ---
 ## 🧩 Grammar Notes
 

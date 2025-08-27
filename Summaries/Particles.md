@@ -8,6 +8,7 @@
 
 
 - 🎬 [ToKini Andy: Japanese は and が Particles in 2 Minutes](https://www.youtube.com/watch?v=ytjRoTwWnzw)
+- 📄 [Tofugu: Japanese Particles Cheat Sheet](https://files.tofugu.com/articles/japanese/2009-03-25-japanese-particles-cheatsheet/japanese-particles-cheatsheet1.pdf)
 
 ## 📝 Additional Notes
 
